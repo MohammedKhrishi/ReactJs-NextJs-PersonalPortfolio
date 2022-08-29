@@ -1,5 +1,5 @@
 # ReactJs-NextJs-PersonalPortfolio
-## Next.js is an open source React front-end development web framework that enables functionality such as server-side rendering and generating static websites for React-based web applications.
+Next.js is an open source React front-end development web framework that enables functionality such as server-side rendering and generating static websites for React-based web applications.
 
 # Getting Started
 Visit https://nextjs.org/learn to get started with Next.js.
@@ -19,5 +19,5 @@ Our Code of Conduct applies to all Next.js community channels.
 
 # Setup
 
-## npm i
-## npm run dev
+- npm i
+- npm run dev
